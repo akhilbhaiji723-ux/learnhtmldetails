@@ -638,7 +638,7 @@ color:rgb(0, 0, 1);
 border: 2px solid rgb(192, 12, 12) ;
 border-radius: 5px;
  
-   position:absolute;
+   position:static;
     cursor: pointer;
     margin-left:  30px;
     
@@ -668,7 +668,7 @@ color:rgb(0, 0, 1);
 border: 2px solid rgb(192, 12, 12) ;
 border-radius: 5px;
  
-   position:absolute;
+   position:static;
     cursor: pointer;
     margin-left: 30px;
     
